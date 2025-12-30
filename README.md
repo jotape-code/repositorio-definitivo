@@ -8,4 +8,6 @@ function receba(a, b){
 }
 ```
 
+![imagem de teste](https://ufsb.edu.br/residenciapedagogica/images/phocagallery/galeria2/thumbs/phoca_thumb_l_image03_grd.png)
+
 
